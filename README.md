@@ -1,2 +1,2 @@
-# automotive_acronyms
-latex acronym sammlung
+# Automotive Acronyms Collection
+Acronym collection for latex with abbreveations of the automotive domain.
