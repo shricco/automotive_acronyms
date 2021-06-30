@@ -1,6 +1,6 @@
 # Automotive Acronyms Collection
 
-Acronym collection for latex with abbreveations of the automotive domain. Feel free to to contribute. :)
+Acronym collection for latex with abbreveations of the automotive domain. Feel free to contribute. :)
 
 ## If you want to buy me a beer :)
 
