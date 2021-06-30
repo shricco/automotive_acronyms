@@ -1,6 +1,6 @@
 # Automotive Acronyms Collection
 
-Acronym collection for latex with abbreveations of the automotive domain. Feel free to contribute. :) A searchable html version of each release can be found on my website: []()
+Acronym collection for latex with abbreveations of the automotive domain. Feel free to contribute. :) A searchable html version of each release can be found on my website: [https://ccorbett.de](https://www.ccorbett.de/projects/acronym/)
 
 ## For pull-requests
 
